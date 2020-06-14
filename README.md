@@ -7,3 +7,4 @@ LeetCode 试题
 - [15.三数之和](/src/15.php) ([https://leetcode-cn.com/problems/3sum/](https://leetcode-cn.com/problems/3sum/))
 - [70.爬楼梯](/src/70.php) ([https://leetcode-cn.com/problems/climbing-stairs/](https://leetcode-cn.com/problems/climbing-stairs/))
 - [739.每日温度](/src/739.php) ([https://leetcode-cn.com/problems/daily-temperatures/](https://leetcode-cn.com/problems/daily-temperatures/))
+- [1300.转变数组后最接近目标值的数组和](/src/1300.php) ([https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/))
