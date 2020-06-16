@@ -5,6 +5,7 @@ LeetCode 试题
 - [1.两数之和](/src/01.php) ([https://leetcode-cn.com/problems/two-sum/](https://leetcode-cn.com/problems/two-sum/))
 - [3.无重复字符的最长子串](/src/03.php) ([https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/))
 - ***[4.寻找两个正序数组的中位数](/src/04.php)*** ([https://leetcode-cn.com/problems/median-of-two-sorted-arrays/](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/))
+- [5.最长回文子串](/src/05.php) ([https://leetcode-cn.com/problems/longest-palindromic-substring/](https://leetcode-cn.com/problems/longest-palindromic-substring/))
 - [9.回文数](/src/09.php) ([https://leetcode-cn.com/problems/palindrome-number/](https://leetcode-cn.com/problems/palindrome-number/))
 - [14.最长公共前缀](/src/14.php) ([https://leetcode-cn.com/problems/longest-common-prefix/](https://leetcode-cn.com/problems/longest-common-prefix/))
 - [15.三数之和](/src/15.php) ([https://leetcode-cn.com/problems/3sum/](https://leetcode-cn.com/problems/3sum/))
