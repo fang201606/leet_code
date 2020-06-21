@@ -14,6 +14,7 @@ LeetCode 试题
 - [14.最长公共前缀](/src/14.php) ([https://leetcode-cn.com/problems/longest-common-prefix/](https://leetcode-cn.com/problems/longest-common-prefix/))
 - [15.三数之和](/src/15.php) ([https://leetcode-cn.com/problems/3sum/](https://leetcode-cn.com/problems/3sum/))
 - [70.爬楼梯](/src/70.php) ([https://leetcode-cn.com/problems/climbing-stairs/](https://leetcode-cn.com/problems/climbing-stairs/))
+- [124.二叉树中的最大路径和](/src/124.php) ([https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/))
 - [125.验证回文串](/src/125.php) ([https://leetcode-cn.com/problems/valid-palindrome/](https://leetcode-cn.com/problems/valid-palindrome/))
 - [~~297.二叉树的序列化与反序列化~~](/src/297.php) ([https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/))
 - [739.每日温度](/src/739.php) ([https://leetcode-cn.com/problems/daily-temperatures/](https://leetcode-cn.com/problems/daily-temperatures/))
