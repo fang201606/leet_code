@@ -11,6 +11,7 @@ LeetCode 试题
 - [9.回文数](/src/09.php) ([https://leetcode-cn.com/problems/palindrome-number/](https://leetcode-cn.com/problems/palindrome-number/))
 - [10.正则表达式匹配](/src/10.php) ([https://leetcode-cn.com/problems/regular-expression-matching/](https://leetcode-cn.com/problems/regular-expression-matching/))
 - [11.盛最多水的容器](/src/11.php) ([https://leetcode-cn.com/problems/container-with-most-water/](https://leetcode-cn.com/problems/container-with-most-water/))
+- [12.整数转罗马数字](/src/12.php) ([https://leetcode-cn.com/problems/integer-to-roman/](https://leetcode-cn.com/problems/integer-to-roman/))
 - [14.最长公共前缀](/src/14.php) ([https://leetcode-cn.com/problems/longest-common-prefix/](https://leetcode-cn.com/problems/longest-common-prefix/))
 - [15.三数之和](/src/15.php) ([https://leetcode-cn.com/problems/3sum/](https://leetcode-cn.com/problems/3sum/))
 - [70.爬楼梯](/src/70.php) ([https://leetcode-cn.com/problems/climbing-stairs/](https://leetcode-cn.com/problems/climbing-stairs/))
@@ -21,3 +22,5 @@ LeetCode 试题
 - [1014.最佳观光组合](/src/1014.php) ([https://leetcode-cn.com/problems/best-sightseeing-pair/](https://leetcode-cn.com/problems/best-sightseeing-pair/))
 - [1028.从先序遍历还原二叉树](/src/1028.php) ([https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/))
 - [1300.转变数组后最接近目标值的数组和](/src/1300.php) ([https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/))
+
+- [面试题 16.18.模式匹配](/src/m/16.18.php) ([https://leetcode-cn.com/problems/pattern-matching-lcci/](https://leetcode-cn.com/problems/pattern-matching-lcci/))
