@@ -31,4 +31,6 @@ LeetCode 试题
 - [1028.从先序遍历还原二叉树](/src/1028.php) ([https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/))
 - [1300.转变数组后最接近目标值的数组和](/src/1300.php) ([https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/))
 
+
+- [面试题 02.01.移除重复节点](/src/m/02.01.php) ([https://leetcode-cn.com/problems/remove-duplicate-node-lcci/](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/))
 - [面试题 16.18.模式匹配](/src/m/16.18.php) ([https://leetcode-cn.com/problems/pattern-matching-lcci/](https://leetcode-cn.com/problems/pattern-matching-lcci/))
