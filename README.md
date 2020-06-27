@@ -21,6 +21,7 @@ LeetCode 试题
 - [20.有效的括号](/src/20.php) ([https://leetcode-cn.com/problems/valid-parentheses/](https://leetcode-cn.com/problems/valid-parentheses/))
 - [21.合并两个有序链表](/src/21.php) ([https://leetcode-cn.com/problems/merge-two-sorted-lists/](https://leetcode-cn.com/problems/merge-two-sorted-lists/))
 - [22.括号生成](/src/22.php) ([https://leetcode-cn.com/problems/generate-parentheses/](https://leetcode-cn.com/problems/generate-parentheses/))
+- [41.缺失的第一个正数](/src/41.php) ([https://leetcode-cn.com/problems/first-missing-positive/](https://leetcode-cn.com/problems/first-missing-positive/))
 - [70.爬楼梯](/src/70.php) ([https://leetcode-cn.com/problems/climbing-stairs/](https://leetcode-cn.com/problems/climbing-stairs/))
 - [124.二叉树中的最大路径和](/src/124.php) ([https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/))
 - [125.验证回文串](/src/125.php) ([https://leetcode-cn.com/problems/valid-palindrome/](https://leetcode-cn.com/problems/valid-palindrome/))
