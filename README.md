@@ -24,6 +24,7 @@ LeetCode 试题
 - [22.括号生成](/src/22.php) ([https://leetcode-cn.com/problems/generate-parentheses/](https://leetcode-cn.com/problems/generate-parentheses/))
 - [23.合并K个排序链表](/src/23.php) ([https://leetcode-cn.com/problems/merge-k-sorted-lists/](https://leetcode-cn.com/problems/merge-k-sorted-lists/))
 - [24.两两交换链表中的节点](/src/24.php) ([https://leetcode-cn.com/problems/swap-nodes-in-pairs/](https://leetcode-cn.com/problems/swap-nodes-in-pairs/))
+- [32.最长有效括号](/src/32.php) ([https://leetcode-cn.com/problems/longest-valid-parentheses/](https://leetcode-cn.com/problems/longest-valid-parentheses/))
 - [41.缺失的第一个正数](/src/41.php) ([https://leetcode-cn.com/problems/first-missing-positive/](https://leetcode-cn.com/problems/first-missing-positive/))
 - [70.爬楼梯](/src/70.php) ([https://leetcode-cn.com/problems/climbing-stairs/](https://leetcode-cn.com/problems/climbing-stairs/))
 - [108.将有序数组转换为二叉搜索树](/src/108.php) ([https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/))
