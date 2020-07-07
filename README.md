@@ -30,6 +30,7 @@ LeetCode 试题
 - [63.不同路径 II](/src/63.php) ([https://leetcode-cn.com/problems/unique-paths-ii/](https://leetcode-cn.com/problems/unique-paths-ii/))
 - [70.爬楼梯](/src/70.php) ([https://leetcode-cn.com/problems/climbing-stairs/](https://leetcode-cn.com/problems/climbing-stairs/))
 - [108.将有序数组转换为二叉搜索树](/src/108.php) ([https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/))
+- [112.路径总和](/src/112.php) ([https://leetcode-cn.com/problems/path-sum/](https://leetcode-cn.com/problems/path-sum/))
 - [124.二叉树中的最大路径和](/src/124.php) ([https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/))
 - [125.验证回文串](/src/125.php) ([https://leetcode-cn.com/problems/valid-palindrome/](https://leetcode-cn.com/problems/valid-palindrome/))
 - [139.单词拆分](/src/139.php) ([https://leetcode-cn.com/problems/word-break/](https://leetcode-cn.com/problems/word-break/))
