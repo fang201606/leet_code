@@ -50,6 +50,7 @@ LeetCode 试题
 
 ### 面试题
 - [02.01.移除重复节点](/src/interview/02.01.php) ([https://leetcode-cn.com/problems/remove-duplicate-node-lcci/](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/))
+- [16.11.跳水板](/src/interview/16.11.php) ([https://leetcode-cn.com/problems/diving-board-lcci/](https://leetcode-cn.com/problems/diving-board-lcci/))
 - [16.18.模式匹配](/src/interview/16.18.php) ([https://leetcode-cn.com/problems/pattern-matching-lcci/](https://leetcode-cn.com/problems/pattern-matching-lcci/))
 
 
